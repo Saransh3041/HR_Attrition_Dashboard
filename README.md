@@ -1,4 +1,3 @@
-<img width="1149" height="672" alt="HR Attrition" src="https://github.com/user-attachments/assets/36f1debe-c53f-48a1-9f52-3985a7cfd299" />
 Project Overview
 This project is a Power BI dashboard designed to analyze employee attrition patterns and help HR teams understand the key factors that contribute to workforce turnover.
 The dashboard provides a data-driven view of employee demographics, job roles, satisfaction levels, and other factors influencing attrition.
